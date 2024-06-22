@@ -1,0 +1,23 @@
+{
+    "headerUrls": [
+        {"urlName":"Home","urlPath":"/"},
+        {"urlName":"About Us","urlPath":"/"},
+        {"urlName":"Plans","urlPath":"/"},
+        {"urlName":"Contact Us","urlPath":"/"}
+    ],
+    "assets":
+        {
+            "images":
+            [
+                { "heroImage":"/assets/images/image24.jpg","Description":"lorem ipsum lorem ipsum lorem ipsum"},
+                { "heroImage":"/assets/images/bgimage2.jpg","Description":"lorem ipsum lorem ipsum lorem ipsum"},
+                { "heroImage":"/assets/images/bgimage3.jpg","Description":"lorem ipsum lorem ipsum lorem ipsum"}
+
+            ],
+               
+            
+            "videos":[],
+            "gifs":[]
+        }
+    
+} 

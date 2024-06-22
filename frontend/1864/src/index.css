@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin:0;
+    padding:0;
+    /* outline: 2px solid red; */
+}
+body{
+    min-height: 100vh;
+    /* background-color:#D4F1F4 ; */
+    /* color:#05445E ; */
+
+}
+@font-face {
+    font-family: 'AcuminProBook';
+    src: url('../fonts/FontsFree-Net-Acumin-Pro-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
